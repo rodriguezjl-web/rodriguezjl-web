@@ -1,24 +1,10 @@
 
 ## WELCOME!
 
-#### My name is Joseph Rodriguez. I'm an aspiring cybersecurity professional. I have worked in the Marine Corps for four years as ab intelligence specialist. Here is a list of my current skillset. 
+#### My name is Joseph Rodriguez. I'm an aspiring cybersecurity professional. I have worked in the Marine Corps for four years as an intelligence specialist. Here is a list of my current skillset. 
 
 - Basic Linux Commands
 - Remote Connection via SSH
 - Basic Python
 
-#### I am currently working on the Havard CS50 Introduction to Computer Science.
-<!--
-**rodriguezjl-web/rodriguezjl-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I am currently working on the Havard CS50 Introduction to Computer Science Course.
