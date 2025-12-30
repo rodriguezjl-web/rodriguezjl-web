@@ -1,6 +1,13 @@
-## Name: Joseph Leroy Rodriguez
-## 
 
+## WELCOME!
+
+#### My name is Joseph Rodriguez. I'm an aspiring cybersecurity professional. I have worked in the Marine Corps for four years as ab intelligence specialist. Here is a list of my current skillset. 
+
+- Basic Linux Commands
+- Remote Connection via SSH
+- Basic Python
+
+#### I am currently working on the Havard CS50 Introduction to Computer Science.
 <!--
 **rodriguezjl-web/rodriguezjl-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
